@@ -1,0 +1,1 @@
+/*INSERT INTO Client(name, email, api_Key) VALUES ('Thomas Anderson','tom.anderson@metacortex.com', '550e8400-e29b-41d4-a716-446655440000');*/
